@@ -1,0 +1,9 @@
+{
+    "name": "node-di-test",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "dependency-injection": "2.3.2",
+        "amqp": "0.2.0"
+    }
+}
